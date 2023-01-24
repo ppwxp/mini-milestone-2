@@ -1,7 +1,7 @@
 package org.example.mines;
 
 public class CoalMine extends Mine{
-    public CoalMine(int fuelUsed) {
+    public CoalMine() {
         super(MinesEnum.CoalMine.getEnergy());
     }
 }
