@@ -7,5 +7,6 @@ public class CoalMine extends Mine{
         System.out.println("z maina 2dfff");
         System.out.println("test");
         System.out.println("z ma");
+        System.out.println("bugfix");
     }
 }
